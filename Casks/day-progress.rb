@@ -4,7 +4,7 @@ cask "day-progress" do
 
   url "https://vd-cafe.pages.dev/downloads/day-progress-#{version}-mac-arm64.dmg"
   name "Day Progress"
-  desc "Day progress indicator for the menu bar"
+  desc "Menu bar indicator showing how much of today has passed"
   homepage "https://vd-cafe.pages.dev/day-progress/"
 
   livecheck do
