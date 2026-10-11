@@ -36,5 +36,7 @@ brew uninstall --zap --cask vc067/apps/day-progress
 Keep previous versioned download URLs available and never replace a released DMG
 with different bytes at the same URL. Recipe updates must not contain credentials.
 
-Homebrew installs use the public DMG directly. Website download-button counts do
-not measure Homebrew installations; copying the command is not a verified install.
+Homebrew uses a dedicated download URL that redirects to the public DMG. Its
+request totals are measured separately from website button clicks. Cached
+downloads may produce no request, and retries may produce multiple requests.
+Neither these totals nor copying the command verifies an installation.

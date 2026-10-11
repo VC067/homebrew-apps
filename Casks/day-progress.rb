@@ -2,7 +2,7 @@ cask "day-progress" do
   version "1.0"
   sha256 "d9521671c44baa70814fbcf817510c7f5c62483d9cc71f1e4a351a7ee8d3240b"
 
-  url "https://vd-cafe.pages.dev/downloads/day-progress-#{version}-mac-arm64.dmg"
+  url "https://vd-cafe.pages.dev/api/homebrew/day-progress/#{version}.dmg"
   name "Day Progress"
   desc "Menu bar indicator showing how much of today has passed"
   homepage "https://vd-cafe.pages.dev/day-progress/"
