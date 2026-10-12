@@ -1,6 +1,6 @@
 cask "day-progress" do
-  version "1.0.2"
-  sha256 "5eab261b6224549dd0d38b9d7cadcb033dec583dd02f723c9643a95059d7e573"
+  version "1.0.3"
+  sha256 "a40a3537cd5908a1f90ee57ffa635ddc3c8aa7bc1746bb5ef179eb5b76a0834c"
 
   url "https://vd-cafe.pages.dev/api/homebrew/day-progress/#{version}.dmg"
   name "Day Progress"
