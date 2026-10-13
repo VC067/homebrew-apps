@@ -1,6 +1,6 @@
 cask "day-progress" do
-  version "1.0.3"
-  sha256 "a40a3537cd5908a1f90ee57ffa635ddc3c8aa7bc1746bb5ef179eb5b76a0834c"
+  version "1.0.4"
+  sha256 "afff107c0505f0bb8f5a62b496ace2f1f63d962d8f718b65c8fa55d48b528487"
 
   url "https://esc-cafe.pages.dev/api/homebrew/day-progress/#{version}.dmg"
   name "Day Progress"
