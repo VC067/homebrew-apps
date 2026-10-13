@@ -1,4 +1,4 @@
-# vd.cafe apps for Homebrew
+# esc cafe apps for Homebrew
 
 Homebrew installation recipes for apps made by Vedant.
 This repository contains package metadata; app source lives in separate repositories.
@@ -24,7 +24,7 @@ Normal uninstall keeps app preferences. To remove preferences too:
 brew uninstall --zap --cask vc067/apps/day-progress
 ```
 
-[App overview](https://vd-cafe.pages.dev/day-progress/)
+[App overview](https://esc-cafe.pages.dev/day-progress/)
 
 ## Maintaining a release
 
